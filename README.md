@@ -15,7 +15,7 @@ Also i will not deny any pats!
 <p align="center">
   <a href="https://skillicons.dev/" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=github,windicss&theme=dark"
+      src="https://skillicons.dev/icons?i=github,arduino,blender,cloudflare,css,discord,bots,docker,express,fastapi,firebase,git,githubactions,gitlab,heroku,html,java,js,lua,linux,mongodb,mysql,nodejs,powershell,py,sqlite,stackoverflow,twitter,ts,unity,visualstudio,vscode,wordpress&theme=dark"
     />
   </a>
 </p>
@@ -37,25 +37,6 @@ Also i will not deny any pats!
     </td>
   </tr>
   <tr>
-    <td>
-      <a
-        href="https://github.com/anuraghazra/github-readme-stats/"
-        target="_blank"
-        ><img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxxoTrystan&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"
-          alt="FoxxoTrystan's top langs"
-      /></a>
-    </td>
-    <td>
-      <a
-        href="https://github.com/anuraghazra/github-readme-stats/"
-        target="_blank"
-        ><img
-          src="https://github-readme-stats.vercel.app/api/wakatime?username=FoxxoTrystan&layout=compact&langs_count=5&range=all_time&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"
-          alt="FoxxoTrystan's wakatime status"
-      /></a>
-    </td>
-  </tr>
 </table>
 
 ##
