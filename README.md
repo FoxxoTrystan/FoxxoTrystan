@@ -8,7 +8,7 @@ Also i will not deny any pats!
 ## Socials
 
 - [Twitter](https://twitter.com/FoxxoTrystan)
-- Discord: FoxxoTrystan#6879
+- Discord: FoxxoTrystan#4555
 
 ## Skills
 
