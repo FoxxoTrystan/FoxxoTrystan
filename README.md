@@ -15,7 +15,7 @@ Also i will not deny any pats!
 <p align="center">
   <a href="https://skillicons.dev/" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=github,arduino,blender,cloudflare,css,discord,bots,docker,express,fastapi,firebase,git,githubactions,gitlab,heroku,html,java,js,lua,linux,mongodb,mysql,nodejs,powershell,py,sqlite,stackoverflow,twitter,ts,unity,visualstudio,vscode,wordpress&theme=dark"
+      src="https://skillicons.dev/icons?i=github,c,cs,css,discord,bots,discordjs,dotnet,express,firebase,git,,githubactions,html,htmx,java,js,lua,mysql,nodejs,npm,sqlite,ts,unity,visualstudio,vscode&theme=dark"
     />
   </a>
 </p>
