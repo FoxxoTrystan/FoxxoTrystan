@@ -10,16 +10,6 @@ Also i will not deny any pats!
 - [Twitter](https://twitter.com/FoxxoTrystan)
 - Discord: @foxxotrystan
 
-## Skills
-
-<p align="center">
-  <a href="https://skillicons.dev/" target="_blank">
-    <img
-      src="https://skillicons.dev/icons?i=github,c,cs,css,discord,bots,discordjs,dotnet,express,firebase,git,githubactions,html,htmx,java,js,lua,mysql,nodejs,npm,sqlite,ts,unity,visualstudio,vscode&theme=dark"
-    />
-  </a>
-</p>
-
 ## Stats
 
 <table align="center">
